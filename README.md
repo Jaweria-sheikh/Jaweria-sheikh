@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaweria jamil</h1>
 <h3 align="center">A passionate frontend developer from pakistan 🇵🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaweria-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="jaweria-sheikh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaweria-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="Jaweria-sheikh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaweria-sheikh" alt="jaweria-sheikh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaweria-sheikh" alt="Jaweria-sheikh" /></a> </p>
 
 - 🌱 I’m currently learning **Web & App Development**
 
