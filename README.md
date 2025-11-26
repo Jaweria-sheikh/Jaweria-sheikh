@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaweria-sheikh&show_icons=true&locale=en&layout=compact" alt="jaweria-sheikh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaweria-sheikh&show_icons=true&locale=en" alt="jaweria-sheikh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaweria-sheikh&show_icons=true&locale=en" alt="Jaweria-sheikh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaweria-sheikh" alt="Jaweria-sheikh" /></p>
 <img align="center" src="https://c.cicube.io/workflowhubs%2F2024-05-01-Platane-snk%2Fsnk-2.svg"  />
