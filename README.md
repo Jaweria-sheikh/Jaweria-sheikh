@@ -26,5 +26,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaweria-sheikh&show_icons=true&locale=en" alt="Jaweria-sheikh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaweria-sheikh&" alt="Jaweria-sheikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaweria-sheikh&" alt="jaweria-sheikh" /></p>
 <img align="center" src="https://c.cicube.io/workflowhubs%2F2024-05-01-Platane-snk%2Fsnk-2.svg"  />
